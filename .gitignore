@@ -1,0 +1,32 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (remove the comment below if you use vendoring)
+vendor/
+
+# Go workspace file
+go.work
+
+# Go module files (optional, include if you don't want to track modules)
+# go.mod
+# go.sum
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
